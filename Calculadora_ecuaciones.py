@@ -10,7 +10,7 @@ print("""
 ..######..##.....##.########..######...#######..########.##.....##.########...#######..##.....##.##.....##...
  """)
 print("Author: @klacode")
-print("\nDe la forma Ax^2+Bx+C con números enteros")
+print("\ncalculadora de la forma Ax^2+Bx+C con números enteros")
 #Meter datos
 print("\nPon A:") 
 num_a=input()
